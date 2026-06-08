@@ -217,4 +217,4 @@ These scripts can be useful when an administrator needs to remove old numbered f
 
 ## Disclaimer
 
-This was an experiemt :`)` Use these scripts at your own risk. Always test them in a safe environment before running them on important systems. The author is not responsible for accidental data loss caused by improper use.
+This was an experiemt :) Use these scripts at your own risk. Always test them in a safe environment before running them on important systems. The author is not responsible for accidental data loss caused by improper use.

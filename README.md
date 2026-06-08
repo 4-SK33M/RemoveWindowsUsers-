@@ -1,4 +1,4 @@
-# Folder Cleanup Script
+# User Cleanup Script
 
 A simple PowerShell script that scans a target directory and deletes folders that meet specific cleanup criteria. The script is currently configured to check folders inside `C:\Users` and remove folders that were last modified before **May 1, 2023**, but only if the folder name begins with a number. 
 ## Overview

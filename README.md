@@ -3,10 +3,7 @@
 A simple PowerShell script that scans a target directory and deletes folders that meet specific cleanup criteria. The script is currently configured to check folders inside `C:\Users` and remove folders that were last modified before **May 1, 2023**, but only if the folder name begins with a number. 
 ## Overview
 
-This script can delete user accounts from the User ```powershell 
-C:\Users
-```
-directory without having to deal with the long waiting time with explorer.exe. This was orginally designed to clean up a large volume of student accounts from a college I used to work for. You can modify it however you like.
+This script can delete user accounts from the Users directory without having to deal with the long waiting time with explorer.exe. This was orginally designed to clean up a large volume of student accounts from a college I used to work for. You can modify it however you like.
 
 ## What the Script Does
 
